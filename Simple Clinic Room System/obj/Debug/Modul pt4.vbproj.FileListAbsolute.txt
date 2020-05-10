@@ -1,0 +1,22 @@
+C:\Users\ASUS\source\repos\Modul pt4\bin\Debug\Modul pt4.exe.config
+C:\Users\ASUS\source\repos\Modul pt4\bin\Debug\Modul pt4.exe
+C:\Users\ASUS\source\repos\Modul pt4\bin\Debug\Modul pt4.pdb
+C:\Users\ASUS\source\repos\Modul pt4\bin\Debug\Modul pt4.xml
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul_pt4.Form1.resources
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul_pt4.Resources.resources
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.exe
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.xml
+C:\Users\ASUS\source\repos\Modul pt4\obj\Debug\Modul pt4.pdb
+C:\Users\ASUS\source\repos\Simple Clinic Room System\bin\Debug\Modul pt4.exe.config
+C:\Users\ASUS\source\repos\Simple Clinic Room System\bin\Debug\Modul pt4.exe
+C:\Users\ASUS\source\repos\Simple Clinic Room System\bin\Debug\Modul pt4.pdb
+C:\Users\ASUS\source\repos\Simple Clinic Room System\bin\Debug\Modul pt4.xml
+C:\Users\ASUS\source\repos\Simple Clinic Room System\obj\Debug\Modul pt4.vbprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Simple Clinic Room System\obj\Debug\Modul_pt4.Resources.resources
+C:\Users\ASUS\source\repos\Simple Clinic Room System\obj\Debug\Modul pt4.vbproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Simple Clinic Room System\obj\Debug\Modul pt4.exe
+C:\Users\ASUS\source\repos\Simple Clinic Room System\obj\Debug\Modul pt4.xml
+C:\Users\ASUS\source\repos\Simple Clinic Room System\obj\Debug\Modul pt4.pdb
+C:\Users\ASUS\source\repos\Simple Clinic Room System\obj\Debug\Modul_pt4.Main.resources
